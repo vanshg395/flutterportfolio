@@ -13,3 +13,7 @@ $ git clone https://github.com/vanshg395/flutter_web_template.git
 $ cd flutter_web_template
 $ flutter run -d chrome
 ```
+
+## Resources
+
+Link to Slides: https://drive.google.com/file/d/151oUU0GCtHRpi6gtmPpqShyo23g058ux/view?usp=sharing
