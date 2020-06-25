@@ -1,6 +1,6 @@
 # Flutter Web Portfolio
 
-This is a basic Prtfolio Web App made using Flutter Web.
+This is a basic Portfolio Web App made using Flutter Web.
 
 ## Getting Started
 
