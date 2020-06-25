@@ -1,16 +1,19 @@
-# flutterportfolio
+# Flutter Web Portfolio
 
-A new Flutter project.
+This is a basic Portfolio Web App made using Flutter Web.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+$ flutter channel beta
+$ flutter upgrade
+$ flutter config --enable-web
 
-A few resources to get you started if this is your first Flutter project:
+$ git clone https://github.com/vanshg395/flutter_web_template.git
+$ cd flutter_web_template
+$ flutter run -d chrome
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Resources
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to Slides: https://drive.google.com/file/d/151oUU0GCtHRpi6gtmPpqShyo23g058ux/view?usp=sharing
