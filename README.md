@@ -16,4 +16,4 @@ $ flutter run -d chrome
 
 ## Resources
 
-Link to Slides: https://drive.google.com/file/d/151oUU0GCtHRpi6gtmPpqShyo23g058ux/view?usp=sharing
+Link to Slides: [Click Here](https://drive.google.com/file/d/151oUU0GCtHRpi6gtmPpqShyo23g058ux/view?usp=sharing)
